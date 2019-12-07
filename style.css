@@ -1,6 +1,6 @@
 /* webkit printing magic: print all background colors */
 * {
-    margin: 0;
+    margin: 0 0 0 5px;
     padding: 0;
 }
 
