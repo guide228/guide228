@@ -217,7 +217,7 @@ p {
 
 
 blockquote {
-	font-size: 1.25em;
+	font-size: 1.1em;
 	margin: 1em 0;
 	padding-left: 1em;
 	border-left: 3px solid rgb(55, 53, 47);
@@ -311,7 +311,7 @@ footer {
 }
 
 .petition-title {
-
+    text-align:center;
 }
 
 
