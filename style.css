@@ -367,7 +367,7 @@ footer {
     content: "";
     width: 0;
     border-radius: 100%;
-    background: #66bb6a;
+    background: #f99486;
 }
 
 .material-scrolltop:active::before {
