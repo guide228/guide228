@@ -17,6 +17,7 @@ body {
 	margin: 0 auto;
 	padding: 0;
 	background-color: #FAFAFA;
+	overflow-x: hidden;
 }
 @media only screen {
 	main {
